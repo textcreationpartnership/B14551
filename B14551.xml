@@ -1,0 +1,123 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>O lord our God, most gracious a[nd] most glorious, which after long [...]</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1589</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14551</idno>
+            <idno type="STC">STC 16520.5</idno>
+            <idno type="STC">ESTC S101398</idno>
+            <idno type="EEBO-CITATION">99837213</idno>
+            <idno type="PROQUEST">99837213</idno>
+            <idno type="VID">178103</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178103)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1392:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>O lord our God, most gracious a[nd] most glorious, which after long [...]</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>J. Charlewood,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1589]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first line of text.</note>
+                  <note>Imprint from STC.</note>
+                  <note>A form of prayer for the protection of Elizabeth of England and Henry III of France against the Catholic Leagues--STC.</note>
+                  <note>Formerly STC 21292.</note>
+                  <note>Identified as STC 21292 on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Elizabeth --  I, --  Queen of England, 1533-1603 --  Early works to 1800.</term>
+               <term>Henry --  III, --  King of France, 1551-1589 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178103:1"/>
+            <pb facs="tcp:178103:1" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">O</seg> Lord our God, moſt gracious &amp; moſt glorious, which after long patience of the former times of ignorance, in theſe laſt daies by the hande of thy faithfull ſeruants, the Magiſtrates &amp; Miniſters in diuers Countries, haſt remooued the vineyarde of thy Church out of that ſpirituall Egipt, the kingdome of Antechriſt, and haſt planted it with moſt precious Vines, euen with ſundry great &amp; famous Chur<g ref="char:EOLhyphen"/>ches in the Goſpell of thy Sonne, which thou haſt cauſed to take roote and to fill the earth, to ſpread theyr boughes at length, &amp; theyr branches a farre off. Thou O Lord knoweſt, how ſince the very firſt beginning of this thy great worke, the wilde Boares of <hi>Rome,</hi> with other like mightie beaſts of that fielde, haue by all meanes endeuoured to breake through the bounds, and to pull vppe the fences which with thine owne right hand thou haddeſt made for them: not onely to lay open their grapes, for all mens plucking, but alſo by deſtroying the Kéepers, vt<g ref="char:EOLhyphen"/>terly to roote and turne vp thy whole vineyard. Specially at thys time thou ſée<g ref="char:EOLhyphen"/>eſt O Lord, how greatly thy enemies doo ſtirre, and how thoſe that hate thée and thy Church, doo beare theyr heades aloft. For the Pope, and popiſh ſtates of <hi>Italie,</hi> with <hi>Phillip</hi> of <hi>Spaine,</hi> the Duke of <hi>Parma, Sauoy,</hi> and <hi>Loraine,</hi> and the trayterous Leagors of <hi>Fraunce,</hi> haue all bended and confederate themſelues a<g ref="char:EOLhyphen"/>gainſt thy people, plotting &amp; counſayling together againſt thy ſecrete ones, how eyther by power or by trecherie they may deſtroy them, that there be no more a Church: and that from hencefoorth, the name of Proteſtants be not ſpoken of vpon earth. But thou O Lord God of our ſaluation, which ſaueſt all thoſe that retyre themſelues vnder thy right hand, from ſuch as riſe vp againſt them: euen thou O God, our ſtrength for thy promiſes, for thy truth, and thy ſonne Chriſt Ieſus ſake, who by hys blood hath ſtabliſhed a holy and euerlaſting league be<g ref="char:EOLhyphen"/>tweéene thee and thy people, as alwaies hetherto, ſo now much rather, helpe wée beſéech thée the whole body of thy Church generally, and euery more ſpecial ſoci<g ref="char:EOLhyphen"/>etie or member thereof: moſt ſpecially by name, embrace we pray thée with thy principall defence, thy moſt noble Churches, thys of <hi>Englande</hi> and the other of <hi>France</hi> and in them thy two beloued ſeruaunts, chiefe heads and Gouernours of the ſame, <hi>Elizabeth</hi> our gracious Queene, and <hi>Henrie</hi> the moſt Chriſtian King. As for theyr enemies, O Lorde, and the enemies of thy elect people, fill theyr faces with ſhame, diſhonour, and rebuke, dooing vnto them as thou did<g ref="char:EOLhyphen"/>deſt of old time to the aduerſaries of thy people Iſraell, euen to <hi>Pharao, Iabin, Siſera</hi> and <hi>Senacherib:</hi> and of late to the Duke of <hi>Guiſe</hi> and <hi>Maine</hi> in <hi>Fraunce,</hi> and the Spaniſh inuaders of our Land in the great déepe. So caſt out all theyr counſailes O God, and cauſe them to perriſh and be ouerthrowne: but let thoſe that loue thée, be as the Sunne in the increaſe of his ſtrength, to the vtter abaſh<g ref="char:EOLhyphen"/>ment and aſtoniſhment of the wicked, to their occaſionable enquirie after thy trueth, to the publique acknowledgement of thy iuſtice and power in the earth. And laſtly to the ſtabliſhment of the thankfulneſſe of the iuſt &amp; the enlargement of thy praiſe in the mouthes of all thy Saints, through Ieſus Chriſt our Lorde. To whom with thée the Father and the holy Ghoſt, one true eternall and euer liuing God, be all honour, praiſe, power &amp; dominion, now and for euer. <hi>Amen.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
